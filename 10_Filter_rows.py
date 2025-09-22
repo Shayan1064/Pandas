@@ -11,3 +11,4 @@ print("# Multi conditions")
 salary_age = data[(data["Salary"] > 60000) & (data["Age"] > 25)]
 print(salary_age)
 
+
